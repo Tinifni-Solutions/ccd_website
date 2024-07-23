@@ -3386,4 +3386,10 @@ label {
   margin: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+
+.indented-text {
+  text-indent: 20px; /* Adjust the value as needed for indentation */
+  text-align: left; /* Ensure the text is aligned to the left */
+  margin: 0; /* Optional: Remove any default margins */
+}
 /*# sourceMappingURL=style.css.map */
